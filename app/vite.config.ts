@@ -5,7 +5,7 @@ import { inspectAttr } from 'kimi-plugin-inspect-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/4d-hypercube-explorer-source/',
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,
