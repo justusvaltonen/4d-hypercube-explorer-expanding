@@ -1,0 +1,26 @@
+
+node -v
+npm install -g npm@latest
+npm -v
+
+npm install
+npm run dev
+
+| Action               | Command                                     |
+| -------------------- | ------------------------------------------- |
+| Start dev server     | `npm run dev`                               |
+| Build for production | `npm run build`                             |
+| Check for errors     | `npm run build` (catches TypeScript issues) |
+| Stage changes        | `git add .`                                 |
+| Commit               | `git commit -m "your message"`              |
+| Push to GitHub       | `git push`                                  |
+| Pull latest          | `git pull`                                  |
+
+
+ESLint 					— catches code issues in real-time
+Tailwind CSS IntelliSense 		— autocomplete for Tailwind classes
+TypeScript Importer 			— auto-imports
+GitLens 				— enhanced git integration
+
+
+

@@ -1,0 +1,217 @@
+
+On npm install:
+npm install
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/config-array@0.21.1',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/config-helpers@0.4.2',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/core@0.17.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/eslintrc@3.3.3',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'globals@14.0.0',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/js@9.39.2',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/object-schema@2.1.7',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/plugin-kit@0.4.1',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanfs/core@0.19.1',
+npm WARN EBADENGINE   required: { node: '>=18.18.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanfs/node@0.16.7',
+npm WARN EBADENGINE   required: { node: '>=18.18.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanwhocodes/retry@0.4.3',
+npm WARN EBADENGINE   required: { node: '>=18.18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/eslint-plugin@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/parser@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/project-service@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/scope-manager@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/tsconfig-utils@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/type-utils@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/types@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/typescript-estree@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/utils@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@typescript-eslint/visitor-keys@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@vitejs/plugin-react@5.1.2',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'camera-controls@3.1.0',
+npm WARN EBADENGINE   required: { node: '>=20.11.0', npm: '>=10.8.2' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'cookie@1.1.1',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'esbuild@0.27.2',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint@9.39.2',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-plugin-react-hooks@7.0.1',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-scope@8.4.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-visitor-keys@4.2.1',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'espree@10.4.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'globals@16.5.0',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'postcss-load-config@6.0.1',
+npm WARN EBADENGINE   required: { node: '>= 18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'react-day-picker@9.13.0',
+npm WARN EBADENGINE   required: { node: '>=18' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'react-hook-form@7.70.0',
+npm WARN EBADENGINE   required: { node: '>=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'react-router@7.18.0',
+npm WARN EBADENGINE   required: { node: '>=20.0.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'rollup@4.55.1',
+npm WARN EBADENGINE   required: { node: '>=18.0.0', npm: '>=8.0.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'ts-api-utils@2.4.0',
+npm WARN EBADENGINE   required: { node: '>=18.12' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'typescript-eslint@8.52.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'vite@7.3.0',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'zod-validation-error@4.0.2',
+npm WARN EBADENGINE   required: { node: '>=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm ERR! code ENOTFOUND
+npm ERR! syscall getaddrinfo
+npm ERR! errno ENOTFOUND
+npm ERR! network request to https://npm.mirrors.msh.team/zustand/-/zustand-5.0.14.tgz failed, reason: getaddrinfo ENOTFOUND npm.mirrors.msh.team
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network 
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\PerusPro\AppData\Local\npm-cache\_logs\2026-06-28T07_10_11_120Z-debug.log
+
+

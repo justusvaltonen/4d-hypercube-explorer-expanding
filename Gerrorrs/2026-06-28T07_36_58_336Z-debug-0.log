@@ -1,0 +1,18 @@
+0 verbose cli E:\nodejs\node.exe C:\Users\PerusPro\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.17.0
+2 info using node@v24.18.0
+3 silly config load:file:C:\Users\PerusPro\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:E:\DataDriven\4d-hypercube-explorer-source\app\.npmrc
+5 silly config load:file:C:\Users\PerusPro\.npmrc
+6 silly config load:file:C:\Users\PerusPro\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev"
+9 verbose logfile logs-max:10 dir:C:\Users\PerusPro\AppData\Local\npm-cache\_logs\2026-06-28T07_36_58_336Z-
+10 verbose logfile C:\Users\PerusPro\AppData\Local\npm-cache\_logs\2026-06-28T07_36_58_336Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd E:\DataDriven\4d-hypercube-explorer-source\app
+13 verbose os Windows_NT 10.0.19045
+14 verbose node v24.18.0
+15 verbose npm  v11.17.0
+16 verbose exit 1
+17 verbose code 1
