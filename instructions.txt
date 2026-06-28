@@ -17,10 +17,24 @@ npm run dev
 | Pull latest          | `git pull`                                  |
 
 
-ESLint 					— catches code issues in real-time
+ESLint 					        — catches code issues in real-time
 Tailwind CSS IntelliSense 		— autocomplete for Tailwind classes
 TypeScript Importer 			— auto-imports
-GitLens 				— enhanced git integration
+GitLens 				        — enhanced git integration
 
+
+src/
+├── components/
+│   ├── Hypercube3D.tsx       # ← The 3D scene (Three.js)
+│   ├── DistanceMatrix.tsx    # ← The heatmap
+│   ├── PathFinder.tsx        # ← Path input + results
+│   ├── ShapesMetrics.tsx     # ← Norms & shapes (new!)
+│   └── MathConcept.tsx       # ← Educational tabs
+├── lib/
+│   └── hypercubeMath.ts      # ← ALL the math lives here
+├── types/
+│   └── index.ts              # ← TypeScript types
+└── pages/
+    └── Home.tsx              # ← Main page layout
 
 

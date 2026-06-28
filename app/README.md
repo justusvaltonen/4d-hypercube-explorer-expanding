@@ -165,3 +165,6 @@ This is a personal learning/exploration project. Feel free to fork and experimen
 ## License
 
 MIT License — use it however you want.
+
+
+I must add that I've inputted just about 0% of my own install script or code. Maybe that is the reason for works on my computer - result.
